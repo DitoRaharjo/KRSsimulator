@@ -1,0 +1,13 @@
+c:\users\the frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\bin\Debug\KRS Form.exe.config
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\bin\Debug\KRS Form.exe
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\bin\Debug\KRS Form.pdb
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\bin\Debug\MySql.Data.dll
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\bin\Debug\MySql.Data.Entity.dll
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS_Form.Properties.Resources.resources
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS Form.csproj.GenerateResource.Cache
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS Form.exe
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS Form.pdb
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS_Form.FormLogin.resources
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS_Form.FormUtama.resources
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS_Form.FormDaftar.resources
+C:\Users\The Frost\documents\visual studio 2015\Projects\KRS Simulator\KRS Form\obj\Debug\KRS Form.csprojResolveAssemblyReference.cache
